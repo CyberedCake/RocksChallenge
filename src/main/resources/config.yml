@@ -1,0 +1,7 @@
+PreventPickingUpBlacklistedItems: true
+ # Prevent players from picking up blacklisted items, which are defined below
+ # Note, this also means if a player drops a cobblestone they won't be able
+ #       to pick it back up!
+
+ItemsToTurnIntoRocks: ['minecraft:cobblestone', 'minecraft:stone']
+  # List of items that will turn into rocks

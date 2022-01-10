@@ -1,0 +1,14 @@
+name: RocksChallenge
+version: '1.0.0'
+main: net.cybercake.rockschallenge.Main
+api-version: 1.18
+prefix: Rocks
+authors: [ CyberedCake ]
+description: rocks :D
+website: https://github.com/CyberedCake/RocksChallenge
+
+commands:
+  rockschallenge:
+    usage: An error occurred!
+    aliases: [rc]
+    description: The main command for the RocksPlugin
